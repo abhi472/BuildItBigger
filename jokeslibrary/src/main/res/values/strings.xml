@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokesLibrary</string>
+    <string name="here_is_your_joke">here is your joke</string>
+    <string name="here_s_your_joke">Here\'s Your Joke</string>
+</resources>

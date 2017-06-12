@@ -6,7 +6,7 @@
 
 package com.example.abhi.myapplication.backend;
 
-import com.example.MyJokesClass;
+import com.example.MyClass;
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
 import com.google.api.server.spi.config.ApiNamespace;
@@ -33,8 +33,9 @@ public class MyEndpoint {
     @ApiMethod(name = "sayHi")
     public MyBean sayHi() {
         MyBean response = new MyBean();
-        MyJokesClass backendJoke = new MyJokesClass();
-        response.setData(backendJoke.getJoke());
+        MyClass myClass = new MyClass();
+
+        response.setData(myClass.getJokes());
 
         return response;
     }
