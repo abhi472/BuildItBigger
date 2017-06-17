@@ -16,7 +16,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="0b1661530fa9cb3709e67c1771a8397100d2893e">
+        sha1="601d6b86f8df61f5bef0a23adb7f7f0b948204a6">
         <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/javalib_ce8d75918c954d5e6db97ba8e9031e18d95c3bc9.jar" />
     </item>
     <item
@@ -30,39 +30,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/abhi/.android/build-cache/0814944f2237324b2b3ae040939e8b903f5e39b4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_fe5cc2547e24051706f4613e3be6ff835d25a70d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/abhi/.android/build-cache/6107b40dddbba008adcb2a509b1852fa735c07a6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_cb7f17c55c1d1219e88663b4670b60a0c4bfe7bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/abhi/.android/build-cache/fbceb830f3d366b6ea951dad47fd1e5244a056ea/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
-        <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_7f330646346db595207e172f3d8ffed47ed19182.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/abhi/.android/build-cache/d4d8719bb5bf1bcb524f4a674c05a5bda579e193/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
         <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_e8e6364bb3ed8f3185579f86e6addbc00d386d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhi/.android/build-cache/0814944f2237324b2b3ae040939e8b903f5e39b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_fe5cc2547e24051706f4613e3be6ff835d25a70d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,11 +66,29 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/abhi/.android/build-cache/6107b40dddbba008adcb2a509b1852fa735c07a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_cb7f17c55c1d1219e88663b4670b60a0c4bfe7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhi/.android/build-cache/fbceb830f3d366b6ea951dad47fd1e5244a056ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/classes_7f330646346db595207e172f3d8ffed47ed19182.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/abhi/AndroidStudioProjects/BuildItBigger2/backend/build/libs/backend-android-endpoints.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ea81eaf99fcada8baf7bbc848ce95c4b02cf8ec9">
+        sha1="eb764579fe84c90b07dbfbf8c76d9da41300b1a8">
         <dex dex="/Users/abhi/AndroidStudioProjects/BuildItBigger2/app/build/intermediates/pre-dexed/paid/debug/backend-android-endpoints_426f1a30efb6e408387f26874d2bf4707f3a35db.jar" />
     </item>
 
