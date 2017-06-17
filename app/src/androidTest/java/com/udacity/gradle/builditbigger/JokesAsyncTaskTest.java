@@ -24,18 +24,14 @@ public class JokesAsyncTaskTest {
     private JokesAsyncTask task;
     private String result = null;
 
-    @Before
-    public void beforeTaskTest() throws Exception {
-
+    @Test
+    public void taskTest() {
         dialog = new ProgressDialog();
         task = new JokesAsyncTask(dialog) {
             @Override
             protected void onPostExecute(String s) {
             }
         };
-    }
-    @Test
-    public void taskTest() {
         try {
             task.execute(mContext);
             result = task.get(15, TimeUnit.SECONDS);
