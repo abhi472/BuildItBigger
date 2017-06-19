@@ -36,7 +36,7 @@ dependencies {
     compile project(':javalib')
     compile project(':jokeslibrary')
     compile 'com.android.support:appcompat-v7:25.0.0'
-    compile 'com.google.android.gms:play-services-ads:9.8.0'
+    freeCompile 'com.google.android.gms:play-services-ads:9.8.0'
     compile 'com.android.support:support-v4:25.3.1'
     compile 'com.google.code.findbugs:jsr305:2.0.1'
     androidTestCompile 'org.mockito:mockito-core:1.+'
